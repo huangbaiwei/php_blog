@@ -8,6 +8,8 @@ use Yii;
 use yii\filters\AccessControl;
 use yii\filters\VerbFilter;
 use yii\web\Controller;
+use app\models\EntryForm;
+
 
 class SiteController extends Controller
 {
